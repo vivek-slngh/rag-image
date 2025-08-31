@@ -123,11 +123,7 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-gemini_api_key.json
-api_key.json
-sample_pdf/
-extracted_from_pdf/
-md_faiss_index/
+
 *.faiss
 *.pkl
 
